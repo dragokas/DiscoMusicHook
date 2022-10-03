@@ -1,0 +1,16 @@
+modHelper = 100, 100, 1220, 624, 
+modFile = 50, 50, 1170, 574, 
+modParser = 225, 225, 1345, 749, 
+cFileDialogEvents = 210, 210, 1514, 754, 
+clsTrickHashTable = 180, 180, 1484, 724, 
+modRegistry = 200, 200, 1320, 724, 
+mIID = 75, 75, 1195, 599, 
+clsOSInfo = 120, 120, 1424, 664, 
+clsRegistry = 150, 150, 1454, 694, 
+modWriteLog = 175, 175, 1295, 699, 
+modOpenFolder = 175, 175, 1295, 699, 
+frmStartup = 175, 175, 1295, 699, , 25, 25, 1145, 549, C
+frmPlay = 75, 26, 1281, 749, Z, 75, 75, 1195, 688, C
+modInternet = 50, 50, 1170, 574, 
+clsMedia = 25, 25, 1145, 549, 
+clsProcess = 100, 100, 1220, 624, 
