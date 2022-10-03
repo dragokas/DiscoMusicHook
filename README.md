@@ -16,3 +16,6 @@ Not production ready, because:
 Initially, it is designed as a replacement/walkaround against MOTD issues in Valve games, which is blocked by Valve and always worked non-stable when music tracks played there.
 
 Make your own fork, or suggest pull requests.
+
+![](https://github.com/dragokas/DiscoMusicHook/blob/main/img/hook1.png)
+![](https://github.com/dragokas/DiscoMusicHook/blob/main/img/hook2.png)
